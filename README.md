@@ -1,6 +1,8 @@
 # GroceryGo - Grocery List and Order App
 
 Final Project Fall 2025, iOS programming with Xcode and Swift
+
+
 Team: Bianca Bien-Aime and Phuong Doanh Nguyen
 
 ## Overview
