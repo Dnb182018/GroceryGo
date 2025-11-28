@@ -140,7 +140,8 @@ GroceryGo/
 
 # Application Screenshots + App run
 
+** please check opened issue (in issues folder) for app screenshots and app run video
+
 https://github.com/Dnb182018/GroceryGo/issues/1#issue-3673412216
 
-## App run
-https://github.com/user-attachments/assets/887cb18a-fd36-4ebb-95b5-f82d3cfc5584
+
